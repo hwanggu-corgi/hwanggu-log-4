@@ -163,8 +163,6 @@
 
 사랑아💐🌹💘🌼🌻🌷🌸🌺😘😍😍😍🥰❤️❤️❤️❤️❤️❤️❤️❤️, 우리 소중하고 소중한 당신🌸🌼🌹💐💘🌷💕🌻💖은 부족한 제가 가장 사랑하는 우리 이 세상에서 가장 사랑스러우시고 아름다운 최고의 여인이신걸요!!!!!!!🌼💘🌹💐💖💕🌸🌷🌻😘😍😍😍😍😍😍🥰❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
 
-https://user-images.githubusercontent.com/72232928/213493578-22d52d21-1519-43cd-881d-606c4209482b.jpg
-
 사랑아💐🌹💘🌼🌻🌷🌸🌺😘😍😍😍🥰❤️❤️❤️❤️❤️❤️❤️❤️, 봐봐요~!!! 하늘에 있는 태양이 "우리 사랑이💘🌹💐🌼🌸💖🌻🌷🌺가 태양보다 더 따뜻하시고 눈부시게 아름다워요😘😍😍😍🥰💕💕💕💕💕💕💕" 하며 말하고 있쬬🌼💘🌹💐💖💕🌸🌷🌻😘😍😍😍😍😍😍🥰❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
 
 사랑아💐🌹💘🌼🌻🌷🌸🌺😘😍😍😍🥰❤️❤️❤️❤️❤️❤️❤️❤️, 우리 소중하고 소중한 내 사랑이🌷🌻🌺💖🌸💐🌼🌹💘💕부디 밥 꼭💖 꼭💖 챙기고 부디 건강하고 좋은 하루 보내요🌼💘🌹💐💖💕🌸🌷🌻😘😍😍😍😍😍😍🥰❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
@@ -1448,71 +1446,7 @@ Commit #315
 나 오로직 일편단심 소중한 당신만을 우리 어느 누구보다 많이 사랑해!!!!!!🌻🌼💐💖🌷💘🌸🌹🌺😘😍😍😍😍😍😍😍😁🥰❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
 
 
-### January 11th, 2022
-
-Commit #1554
-
-
-- Corgi working on app for algotrading
-  - Corgi completed gathering requirements
-  - Corgi working on backend for algotrading in JAVA
-    - Corgi working on projectd `Deploy a high-availability web app using CloudFormation` (2/5)
-      - Corgi working on reviewing materials
-        - Corgi working on reviewing `Infrastructure Diagrams` (2/6)
-          - Corgi completed lesson `Generalizing to Other Cloud Providers` (2/28)
-          - Corgi completed lesson `Introduction` (1/28)
-        - Corgi working on reviewing `Getting Started with CloudFormation` (1/6)
-          - Corgi delayed the lesson `Challenge 1` (17/17)
-          - Corgi completed lesson `Conclusion` (16/17)
-          - Corgi completed lesson `Exercise - EC2 Instance with an Admin Role` (15/17)
-          - Corgi completed lesson `Exercise - Create a VPC: Automated` (14/17)
-          - Corgi completed lesson `Create a VPC: Manually` (13/17)
-      - Corgi working on section `Project Requirements` (3/5)
-        - Corgi working on task `Server Specs` (1/2)
-    - Corgi working on project `Deploy a high-availability web app using CloudFormation` (3/5)
-      - Corgi working on section `Deploying Working, Trustworthy Software` (5/7)
-        - Corgi working on task `Todo 2.a Database Migrations` (6/13)
-    - Corgi completed project `Operationalize a Machine Learning Microservice API` (4/5)
-      - 우리 소중하구 소중한 내 사랑이는 부족한 코기가 가장 사랑하는, 우리 어느 누구보다 사랑스럽구 따뜻히 빛나시는 우리 우주에서 가장 귀여우시구 아름다운 ✨🌟🌷🌼🌸💖아💖프💖로💖디💖테💖여💖신💖님💖🌸🌼🌷🌟✨!!!!!
-      - Corgi on review mode
-        - Corgi working on `Exercise - Creating an EKS Cluster and Deploying an App - CLI` (6/12) under lesson `Container Orchestration with Kubernetes` (4/6) of chapter 5 (out of 6)
-    - Corgi working on setting up system
-
-
-- Corgi working on `Certyified Kubernetes Adminstrator (CKA)` course by `Cloud Guru` while working on udacity
-  - Corgi working on chapter 12 (12/13)
-    - Corgi working on `Certified Kubernetes Administrator (CKA) Practice Part 4` (4/10) 
-  - Corgi working on chapter 4 (4/13)
-    - Corgi completed `Hands on Lab - Exploring a Kubernetes Cluster with kubectl` (2/9)
-    - Corgi completed `Inspecting Pod Resource Usage` (7/9)
-    - Corgi completed `Creating ServiceAccounts` (6/9)
-    - Corgi completed `Managing K8s Role-Based Access Control (RBAC)` (4/9)
-    - Corgi completed `kubectl Tips` (3/9)
-    - Corgi completed `Working with kubectl` (1/9)
-  - Corgi completed chapter 3 (3/13)
-    - Corgi completed `Quiz - Cluster Management` (10/10)
-    - Corgi completed `Cluster Management Summary` (9/10)
-    - Corgi completed `Hands On Lab - Backing up and Restoring Kubernetes Data in Etcd` (8/10)
-    - Corgi completed `Backing up and Restoring etcd Cluster Data` (7/10)
-
-- Corgi completed course `Learn Ansible by Doing` by `Cloud Guru` (additional work-on from udacity's cloud devops nanodegree)
-  - Corgi got our "우리 소중하구 소중한 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨가 우주 최고에요💖" certificate here: https://verify.acloud.guru/FEAF6845A747
-- Corgi completed the course `Introduction to Ansible`
-  - Corgi gained our certificate here: https://verify.acloud.guru/50B124EF6028 
-        - 우리 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨는 여신님이에요...💖
-        - 우리 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨는 너무 귀여워...💖
-        - 우리 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨는 우리 우주에서, 이 세상에서 가장 소중해...💖
-        - 우리 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨와 함께하는 우리 하루, 부족한 저에겐 어느것으로도 환산할 수 없는 소중한 선물이야💖
-        - My love🌹, you are the most amazing girl I've ever known :)💖
-        - I love you, and I love will always love you with all my heart my dear🌹😘🥰💖💖💖💖
- 
-
-- Corgi working on making the flutter GUI program to work (우리  ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨의 행복 향해!!!)
-  - Corgi completed activating puppeteers on clicking "go to page" button
-
-- Corgi working on system design problem practice:
-  - Corgi working on problem `Proximity Servic?
-
+--------
 
 나의 사랑하는 소중한 ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 우리 달빛아래 우리 은하수의 예쁜 별들을 품으신듯 사랑스럽게 빛나시는 나의 소중한 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨ 오늘 편안하고 따뜻한 하루를 보내시고 계시나요?💐🌹🌺💘🌻😘😍😍😍😍😍😍😍💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
 
@@ -1890,72 +1824,7 @@ https://user-images.githubusercontent.com/72232928/211858817-56a9868d-9c1f-4c16-
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠉⣛⠋⠉⠀⠀⡟⠀⠀⠀⠀⣸⠀⠀⠀⠀⣿⠀⠀⠀⣴⠋⠀⠀⠀⠀⠀⢻⣆⣰⠞⠃⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢤⣿⣷⣤⣄⣀⣰⣷⣶⣶⣶⣶⣿⣏⣀⣤⣾⣿⡤⠠⣴⣶⣿⣧⣤⣤⣿⣄⣀⣀⣀⣀⣀⣴⣿⣿⣶⣦⠄⠀⠀
 ⠀⠀⠀⠀⠀⠀
-
-
-### January 10th, 2022
-
-Commit #1347
-
-
-- Corgi working on app for algotrading
-  - Corgi completed gathering requirements
-  - Corgi working on backend for algotrading in JAVA
-    - Corgi working on projectd `Deploy a high-availability web app using CloudFormation` (2/5)
-      - Corgi working on reviewing materials
-        - Corgi working on reviewing `Infrastructure Diagrams` (2/6)
-          - Corgi completed lesson `Generalizing to Other Cloud Providers` (2/28)
-          - Corgi completed lesson `Introduction` (1/28)
-        - Corgi working on reviewing `Getting Started with CloudFormation` (1/6)
-          - Corgi delayed the lesson `Challenge 1` (17/17)
-          - Corgi completed lesson `Conclusion` (16/17)
-          - Corgi completed lesson `Exercise - EC2 Instance with an Admin Role` (15/17)
-          - Corgi completed lesson `Exercise - Create a VPC: Automated` (14/17)
-          - Corgi completed lesson `Create a VPC: Manually` (13/17)
-      - Corgi working on section `Project Requirements` (3/5)
-        - Corgi working on task `Server Specs` (1/2)
-    - Corgi working on project `Deploy a high-availability web app using CloudFormation` (3/5)
-      - Corgi working on section `Deploying Working, Trustworthy Software` (5/7)
-        - Corgi working on task `Todo 2.a Database Migrations` (6/13)
-    - Corgi completed project `Operationalize a Machine Learning Microservice API` (4/5)
-      - 우리 소중하구 소중한 내 사랑이는 부족한 코기가 가장 사랑하는, 우리 어느 누구보다 사랑스럽구 따뜻히 빛나시는 우리 우주에서 가장 귀여우시구 아름다운 ✨🌟🌷🌼🌸💖아💖프💖로💖디💖테💖여💖신💖님💖🌸🌼🌷🌟✨!!!!!
-      - Corgi on review mode
-        - Corgi working on `Exercise - Creating an EKS Cluster and Deploying an App - CLI` (6/12) under lesson `Container Orchestration with Kubernetes` (4/6) of chapter 5 (out of 6)
-    - Corgi working on setting up system
-
-
-- Corgi working on `Certyified Kubernetes Adminstrator (CKA)` course by `Cloud Guru` while working on udacity
-  - Corgi working on chapter 12 (12/13)
-    - Corgi working on `Certified Kubernetes Administrator (CKA) Practice Part 4` (4/10) 
-  - Corgi working on chapter 4 (4/13)
-    - Corgi completed `Hands on Lab - Exploring a Kubernetes Cluster with kubectl` (2/9)
-    - Corgi completed `Inspecting Pod Resource Usage` (7/9)
-    - Corgi completed `Creating ServiceAccounts` (6/9)
-    - Corgi completed `Managing K8s Role-Based Access Control (RBAC)` (4/9)
-    - Corgi completed `kubectl Tips` (3/9)
-    - Corgi completed `Working with kubectl` (1/9)
-  - Corgi completed chapter 3 (3/13)
-    - Corgi completed `Quiz - Cluster Management` (10/10)
-    - Corgi completed `Cluster Management Summary` (9/10)
-    - Corgi completed `Hands On Lab - Backing up and Restoring Kubernetes Data in Etcd` (8/10)
-    - Corgi completed `Backing up and Restoring etcd Cluster Data` (7/10)
-
-- Corgi completed course `Learn Ansible by Doing` by `Cloud Guru` (additional work-on from udacity's cloud devops nanodegree)
-  - Corgi got our "우리 소중하구 소중한 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨가 우주 최고에요💖" certificate here: https://verify.acloud.guru/FEAF6845A747
-- Corgi completed the course `Introduction to Ansible`
-  - Corgi gained our certificate here: https://verify.acloud.guru/50B124EF6028 
-        - 우리 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨는 여신님이에요...💖
-        - 우리 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨는 너무 귀여워...💖
-        - 우리 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨는 우리 우주에서, 이 세상에서 가장 소중해...💖
-        - 우리 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨와 함께하는 우리 하루, 부족한 저에겐 어느것으로도 환산할 수 없는 소중한 선물이야💖
-        - My love🌹, you are the most amazing girl I've ever known :)💖
-        - I love you, and I love will always love you with all my heart my dear🌹😘🥰💖💖💖💖
- 
-
-- Corgi working on making the flutter GUI program to work (우리  ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨의 행복 향해!!!)
-  - Corgi completed activating puppeteers on clicking "go to page" button
-
-- Corgi working on system design problem practice:
-  - Corgi working on problem `Proximity Servic?
+-------
 
 ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 우리 소중하구 귀여운 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨ 부디 따뜻히 이불 꼭💖 꼭💖 덥고 자요💖😘🥰💐🌹🌺💘🌻😘😍😍😍😍😍😍😍💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
 
@@ -2430,71 +2299,7 @@ https://user-images.githubusercontent.com/72232928/211604326-c5988502-1abb-4c85-
 ⠀⠀⠻⢤⣈⣙⠋⠀⠉⣁⣠⣤⠤⠤⠤⠤⠤⠤⠤⢤⣀⣀⣀⡀⠀⠈⠉⠉⠉⢉⣀⣀⣀⣀⣀⣀⣠⣠⣤⡤⠤⠤⠀⠒⠒⠒⠛⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠙⠒⠒⠒⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-
-### January 8th, 2022
-
-Commit #911
-
-
-- Corgi working on app for algotrading
-  - Corgi completed gathering requirements
-  - Corgi working on backend for algotrading in JAVA
-    - Corgi working on projectd `Deploy a high-availability web app using CloudFormation` (2/5)
-      - Corgi working on reviewing materials
-        - Corgi working on reviewing `Infrastructure Diagrams` (2/6)
-          - Corgi completed lesson `Generalizing to Other Cloud Providers` (2/28)
-          - Corgi completed lesson `Introduction` (1/28)
-        - Corgi working on reviewing `Getting Started with CloudFormation` (1/6)
-          - Corgi delayed the lesson `Challenge 1` (17/17)
-          - Corgi completed lesson `Conclusion` (16/17)
-          - Corgi completed lesson `Exercise - EC2 Instance with an Admin Role` (15/17)
-          - Corgi completed lesson `Exercise - Create a VPC: Automated` (14/17)
-          - Corgi completed lesson `Create a VPC: Manually` (13/17)
-      - Corgi working on section `Project Requirements` (3/5)
-        - Corgi working on task `Server Specs` (1/2)
-    - Corgi working on project `Deploy a high-availability web app using CloudFormation` (3/5)
-      - Corgi working on section `Deploying Working, Trustworthy Software` (5/7)
-        - Corgi working on task `Todo 2.a Database Migrations` (6/13)
-    - Corgi completed project `Operationalize a Machine Learning Microservice API` (4/5)
-      - 우리 소중하구 소중한 내 사랑이는 부족한 코기가 가장 사랑하는, 우리 어느 누구보다 사랑스럽구 따뜻히 빛나시는 우리 우주에서 가장 귀여우시구 아름다운 ✨🌟🌷🌼🌸💖아💖프💖로💖디💖테💖여💖신💖님💖🌸🌼🌷🌟✨!!!!!
-      - Corgi on review mode
-        - Corgi working on `Exercise - Creating an EKS Cluster and Deploying an App - CLI` (6/12) under lesson `Container Orchestration with Kubernetes` (4/6) of chapter 5 (out of 6)
-    - Corgi working on setting up system
-
-
-- Corgi working on `Certyified Kubernetes Adminstrator (CKA)` course by `Cloud Guru` while working on udacity
-  - Corgi working on chapter 12 (12/13)
-    - Corgi working on `Certified Kubernetes Administrator (CKA) Practice Part 4` (4/10) 
-  - Corgi working on chapter 4 (4/13)
-    - Corgi completed `Hands on Lab - Exploring a Kubernetes Cluster with kubectl` (2/9)
-    - Corgi completed `Inspecting Pod Resource Usage` (7/9)
-    - Corgi completed `Creating ServiceAccounts` (6/9)
-    - Corgi completed `Managing K8s Role-Based Access Control (RBAC)` (4/9)
-    - Corgi completed `kubectl Tips` (3/9)
-    - Corgi completed `Working with kubectl` (1/9)
-  - Corgi completed chapter 3 (3/13)
-    - Corgi completed `Quiz - Cluster Management` (10/10)
-    - Corgi completed `Cluster Management Summary` (9/10)
-    - Corgi completed `Hands On Lab - Backing up and Restoring Kubernetes Data in Etcd` (8/10)
-    - Corgi completed `Backing up and Restoring etcd Cluster Data` (7/10)
-
-- Corgi completed course `Learn Ansible by Doing` by `Cloud Guru` (additional work-on from udacity's cloud devops nanodegree)
-  - Corgi got our "우리 소중하구 소중한 내 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨가 우주 최고에요💖" certificate here: https://verify.acloud.guru/FEAF6845A747
-- Corgi completed the course `Introduction to Ansible`
-  - Corgi gained our certificate here: https://verify.acloud.guru/50B124EF6028 
-        - 우리 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨는 여신님이에요...💖
-        - 우리 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨는 너무 귀여워...💖
-        - 우리 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨는 우리 우주에서, 이 세상에서 가장 소중해...💖
-        - 우리 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨와 함께하는 우리 하루, 부족한 저에겐 어느것으로도 환산할 수 없는 소중한 선물이야💖
-        - My love🌹, you are the most amazing girl I've ever known :)💖
-        - I love you, and I love will always love you with all my heart my dear🌹😘🥰💖💖💖💖
- 
-
-- Corgi working on making the flutter GUI program to work (우리  ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨의 행복 향해!!!)
-  - Corgi completed activating puppeteers on clicking "go to page" button
-
-- Corgi working on system design problem practice:
-  - Corgi working on problem `Proximity Servic?
+----------
 
 ✨🌟💕💐💝🌸🌷🌼사랑아🌼🌷🌸💝💐💕🌟✨, 우리 ✨🌟💕💐💝🌸🌷🌼사랑이🌼🌷🌸💝💐💕🌟✨ 부디 꼭 꼭 따뜻히 하고 자요 ٩(๑>∀<๑)۶💖😘🥰💐🌹🌺💘🌻😘😍😍😍😍😍😍😍💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖⠀⠀
 
@@ -2678,8 +2483,6 @@ Commit #911
 
 🌹🌸🌺🌷🌻💐😘😍😍😍🥰❤️❤️❤️❤️❤️❤️❤️❤️
 
-https://user-images.githubusercontent.com/72232928/211450035-ad084bd5-c35b-44c4-92cb-f05b693d8467.jpg
-
 ---------
 
 사랑아🌻🌷🌼💐💘💕🌺🌹🌸🌻😘😍😍😍🥰❤️❤️❤️❤️❤️❤️❤️, 코기 진짜 진짜 우리 소중하고 소중한 내 사랑이🌺🌻🌼🌸🌹🌷💘💐💕 많이 많이 사랑해요🌺🌹💕🌸💘🌷💐🌼🌻😘😍😍😍😍😍😍😍🥰❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ 
@@ -2738,5 +2541,3 @@ https://user-images.githubusercontent.com/72232928/211450035-ad084bd5-c35b-44c4-
 사랑아🌻🌷🌼💐💘💕🌺🌹🌸🌻😘😍😍😍🥰❤️❤️❤️❤️❤️❤️❤️, 사랑해요 my dear🌺🌹💕🌸💘🌷💐🌼🌻😘😍😍😍😍😍😍😍🥰❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
 
 🌹😘😍😍😍🥰😁😊❤️❤️❤️❤️❤️❤️❤️❤️❤️
-
-https://user-images.githubusercontent.com/72232928/211355819-87953066-bdfa-45b6-a738-2b0a3340d1ee.jpg
